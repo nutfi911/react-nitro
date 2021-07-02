@@ -24,12 +24,12 @@ const LogoText = styled.div`
 
 const Image = styled.div`
 
-    width: auto;
-    ${tw`h-6 md:h-9 `}
+    width:auto;
+    ${tw`h-6 md:h-12`}
     
     img{
-        width: auto;
-        height: 100%;
+        width:auto;
+        height:100%;
     }
 
 `;
